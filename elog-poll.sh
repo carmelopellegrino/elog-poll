@@ -92,6 +92,7 @@ function get_post() {
 
 function handler() {
   echo "Implement me!"
+  cat
 }
 
 # Script begins here
